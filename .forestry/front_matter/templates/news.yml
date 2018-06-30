@@ -10,4 +10,5 @@ fields:
   name: description
   label: Description
 pages:
+- content/post/nouveau-professeur.md
 - content/post/nouveau-site-internet.md
