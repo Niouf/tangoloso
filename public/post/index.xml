@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>./post/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <lastBuildDate>Fri, 29 Jun 2018 15:02:16 +0200</lastBuildDate>
+    
+	<atom:link href="./post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nouveau professeur</title>
+      <link>./post/bienvenue_cecile/</link>
+      <pubDate>Fri, 29 Jun 2018 15:02:16 +0200</pubDate>
+      
+      <guid>./post/bienvenue_cecile/</guid>
+      <description>Nouveau professeur Catherine qui donnait des cours � l&amp;rsquo;association Tangoloso sera remplac�e par C�cile pour la saison 2018&amp;frasl;2019.
+Bienvenue � C�cile !</description>
+    </item>
+    
+    <item>
+      <title>Nouveau site internet</title>
+      <link>./post/new_site/</link>
+      <pubDate>Fri, 29 Jun 2018 15:02:16 +0200</pubDate>
+      
+      <guid>./post/new_site/</guid>
+      <description>Nouveau site Tangoloso Tangoloso se dote d&amp;rsquo;un nouveau site internet !
+Plus rapide, facilement modifiable, il vous tiendra au courant de toutes les actualit�s de la saison.</description>
+    </item>
+    
+  </channel>
+</rss>
