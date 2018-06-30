@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <title>Tangoloso</title>
+
+	{{ partial "header.html" }}
+  </head>
+
+  <body>
+
+   <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+      <div class="container">
+        <a class="navbar-brand" href="#">Tangoloso</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+		  
+		  <ul class="navbar-nav ml-auto">
+        {{ $currentPage := . }}
+        {{ range .Site.Menus.main }}
+            {{ if .HasChildren }}
+                <li class="nav-item {{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
+                    <a class='nav-link' href="#">
+                        {{ .Pre }}
+                        <span>{{ .Name }}</span>
+                    </a>
+                </li>
+                <ul class="sub-menu">
+                    {{ range .Children }}
+                        <li class="nav-item {{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
+                            <a class='nav-link' href="{{ .URL }}">{{ .Name }}</a>
+                        </li>
+                    {{ end }}
+                </ul>
+            {{ else }}
+                <li>
+                    <a class='nav-link' href="{{ .URL }}">
+                        {{ .Pre }}
+                        <span>{{ .Name }}</span>
+                    </a>
+                </li>
+            {{ end }}
+        {{ end }}
+    </ul>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Page Content -->
+    <div class="container">
+		<section class='section-top-page'>
+			<div class=''>
+				<h1><span class='tango'>Tango</span><span class='loso'>loso</span></h1>
+			</div>
+		</section>
+		
+		<section class='section-actu'>
+			<h2>Actualité</h2>
+			<div class='row'>
+				<div class='col-md-5'>
+					{{ range first 5 (where .Site.RegularPages "Type" "post").ByDate }}
+				
+					<div class='article-list-element'>
+						<h3 class="article-list-date" itemprop="headline">
+							<span class='article-list-date'>{{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}</span>
+							<br/><a href="{{ .RelPermalink }}">{{ .Title }}</a>
+						</h3>
+					</div>	
+					{{ end }}
+				</div>
+				
+				<div class='col-md-7'>
+					<div class='embed-responsive embed-responsive-21by9'>
+						<iframe class="embed-responsive-item" src="https://calendar.google.com/calendar/embed?src=krf6ac7liank5h568vudboh4f0%40group.calendar.google.com&amp;ctz=Europe/Paris" width="800" height="600"></iframe>
+					</div>
+				</div>
+			</div>
+		</section>
+
+		<section class='section-contact'>
+			<div class='content'>{{ .Content }}</div>
+		</section>
+    </div>
+
+	
+	{{ partial "footer.html" }}
+
+  </body>
+
+</html>

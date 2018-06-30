@@ -1,0 +1,21 @@
+# theme.toml template for a Hugo theme
+# See https://github.com/gohugoio/hugoThemes#themetoml for an example
+
+name = "Tangoloso"
+license = "MIT"
+licenselink = "https://github.com/yourname/yourtheme/blob/master/LICENSE"
+description = "Theme de Tangoloso"
+homepage = "http://www.tangoloso.com"
+tags = []
+features = []
+min_version = "0.41"
+
+[author]
+  name = "Fabien Grignoux"
+  homepage = ""
+
+# If porting an existing theme
+[original]
+  name = ""
+  homepage = ""
+  repo = ""
