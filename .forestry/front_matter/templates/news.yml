@@ -1,0 +1,11 @@
+---
+hide_body: false
+is_partial: false
+fields:
+- type: textarea
+- type: file
+  name: logo
+  label: logo
+- type: text
+  name: description
+  label: Description
