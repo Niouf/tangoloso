@@ -1,8 +1,8 @@
 ---
-title: "Videos"
-date: 2018-06-27T15:13:33+02:00
-draft: true
-menu : "main"
+title: Videos
+date: 2018-06-27 13:13:33 +0000
+menu: main
+
 ---
 # Nos dernières vidéos et démos de tango !
 <div class='row space-v' >
