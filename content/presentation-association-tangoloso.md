@@ -1,9 +1,9 @@
 ---
-title: "L'association"
-date: 2018-06-27T15:12:50+02:00
-draft: true
-menu : "main"
-weight : 50
+title: L'association
+date: 2018-06-27 13:12:50 +0000
+menu: main
+weight: 50
+
 ---
 # L’association Tangoloso
 
@@ -46,6 +46,3 @@ Association Tangoloso
 chez Fabien Grignoux
 11 rue de l'espérance
 69003 Lyon
-
-
-
