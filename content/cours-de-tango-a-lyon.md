@@ -1,11 +1,10 @@
 ---
-title: "Cours de Tango"
-date: 2018-06-27T15:12:08+02:00
-draft: true
-menu : "main"
+title: Cours de Tango
+date: 2018-06-27 13:12:08 +0000
+menu: main
 weight: 100
----
 
+---
 # Cours de tango argentin à Lyon 3ème
 Nos cours ont lieu dans une nouvelle salle grande et lumineuse : La maison des Italiens à Lyon 3 ème !
 Nous souhaitons vous proposer un enseignement complet et adapté au bal (milongas), vous permettant de développer ou enrichir votre propre tango.  Nous proposons un cours d’essai gratuit pour découvrir notre association.
@@ -51,4 +50,3 @@ Maison des Italiens
 
 Arrêt de tram Dauphiné Lacassagne
 10 minutes à pied du métro Sans Souci
-
