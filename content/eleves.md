@@ -1,10 +1,9 @@
 ---
-title: "Eleves"
-date: 2018-06-27T15:13:53+02:00
-draft: true
-menu : "main"
----
+title: Eleves
+date: 2018-06-27 13:13:53 +0000
+menu: main
 
+---
 # Resources pour nos élèves
 
 ## Résumé des cours
