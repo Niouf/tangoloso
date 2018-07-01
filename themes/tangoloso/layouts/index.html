@@ -51,40 +51,54 @@
     </nav>
 
     <!-- Page Content -->
-    <div class="container">
+
 		<section class='section-top-page'>
-			<div class=''>
-				<h1><span class='tango'>Tango</span><span class='loso'>loso</span></h1>
-			</div>
+      <div class="container">
+  			<div class='title-center'>
+  				<h1><span class='tango'>Tango</span><span class='loso'>loso</span></h1>
+          <p class='subtitle'>Le tango délicieux</p>
+          <div class="top-buttons">
+            <a href='./cours-de-tango-a-lyon/' class='btn btn-top-1'>Cours collectifs à Lyon</a>
+
+            <a href="./cours-particuliers-de-tango-a-lyon" class='btn btn-top-2'>Cours particuliers</a>
+          </div>
+
+
+  			</div>
+      </div>
 		</section>
 
 		<section class='section-actu'>
-			<h2>Actualité</h2>
-			<div class='row'>
-				<div class='col-md-5'>
-					{{ range first 5 (where .Site.RegularPages "Type" "post").ByDate }}
+      <div class="container">
+        <h2>Actualité</h2>
+  			<div class='row'>
+  				<div class='col-md-5'>
+  					{{ range first 5 (where .Site.RegularPages "Type" "post").ByDate }}
 
-					<div class='article-list-element'>
-						<h3 class="article-list-date" itemprop="headline">
-							<span class='article-list-date'>{{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}</span>
-							<br/><a href="{{ .RelPermalink }}">{{ .Title }}</a>
-						</h3>
-					</div>
-					{{ end }}
-				</div>
+  					<div class='article-list-element'>
+  						<h3 itemprop="headline">
+  							<span class='article-list-date'>{{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}</span>
+  							<br/><a href="{{ .RelPermalink }}">{{ .Title }}</a>
+  						</h3>
+  					</div>
+  					{{ end }}
+  				</div>
 
-				<div class='col-md-7'>
-					<div class='embed-responsive embed-responsive-21by9'>
-						<iframe class="embed-responsive-item" src="https://calendar.google.com/calendar/embed?src=krf6ac7liank5h568vudboh4f0%40group.calendar.google.com&amp;ctz=Europe/Paris" width="800" height="600"></iframe>
-					</div>
-				</div>
-			</div>
+  				<div class='col-md-7'>
+  					<div class='embed-responsive embed-responsive-21by9'>
+  						<iframe class="embed-responsive-item" src="https://calendar.google.com/calendar/embed?src=krf6ac7liank5h568vudboh4f0%40group.calendar.google.com&amp;ctz=Europe/Paris" width="800" height="600"></iframe>
+  					</div>
+  				</div>
+  			</div>
+      </div>
 		</section>
 
 		<section class='section-contact'>
-			<div class='content'>{{ .Content }}</div>
+      <div class="container">
+        <div class='content'>{{ .Content }}</div>
+      </div>
 		</section>
-    </div>
+  </div>
 
 
 	{{ partial "footer.html" }}

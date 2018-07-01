@@ -1,5 +1,18 @@
-body{
+body,html{
+height:100%;
+}
 
+h1{
+font-size:2em;
+}
+
+h2{
+	text-transform:uppercase;
+	font-size:1.7em;
+}
+
+h3{
+	font-size:1.6em;
 }
 
 .navbar{
@@ -7,6 +20,11 @@ body{
 	color:#4c4c4c !important;
 	border-bottom:1px solid #fbe8eb  !important;
 	padding:0;
+	-moz-box-shadow: 2px 10px 5px -10px #c0c0c0;
+	-webkit-box-shadow: 2px 10px 5px -10px #c0c0c0;
+	-o-box-shadow: 2px 10px 5px -10px #c0c0c0;
+	box-shadow: 2px 10px 5px -10px #c0c0c0;
+	filter:progid:DXImageTransform.Microsoft.Shadow(color=#c0c0c0, Direction=168, Strength=5);
 }
 
 .navbar a.nav-link{
@@ -14,14 +32,158 @@ body{
 	font-weight: 500;
 	letter-spacing: -1px;
 	color:#4c4c4c !important;
-	margin-left:1.3em;
+	margin-left:1.4em;
 }
 
-.a:hover{
-	color:#5234f9;
+.navbar a.nav-link:hover{
+	color:#e06666 !important;
+}
+
+a{
+	color:#e06666 !important;
+}
+
+a.btn-primary{
+	color:white !important;
+	background:#e06666;
+	border:#e06666;
+}
+
+a.btn-primary:hover{
+	background:#fb7169;
+	border:#fb7169;
+}
+
+#mc-embedded-subscribe{
+	color:white !important;
+	background:#e06666;
+	border:#e06666;
+	border-radius: .25rem;
+	padding:4px;
+}
+
+#mc-embedded-subscribe:hover{
+	background:#fb7169;
+	border:#fb7169;
 }
 
 a.navbar-brand img{
 	height:40px;
 	width:auto;
+}
+
+.navbar-toggler{
+	background:#e06666;
+}
+
+.footer{
+	margin-top:3em;
+	padding-top:3em;
+	padding-bottom:3em;
+	background:#5d4444;
+	color:white;
+	-moz-box-shadow: 2px -10px 5px -10px #c0c0c0;
+	-webkit-box-shadow: 2px -10px 5px -10px #c0c0c0;
+	-o-box-shadow: 2px -10px 5px -10px #c0c0c0;
+	box-shadow: 2px -10px 5px -10px #c0c0c0;
+	filter:progid:DXImageTransform.Microsoft.Shadow(color=#c0c0c0, Direction=11, Strength=5);
+}
+
+
+.footer a{
+	color:#f77a7a !important;
+	text-decoration:underline;
+}
+
+
+.article-list-element{
+	font-size:0.9em;
+}
+
+.article-list-date{
+	font-size:0.7em;
+}
+
+section{
+	margin-bottom:2em;
+}
+
+.title-center{
+	position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.section-top-page h1{
+	font-family: 'Cookie', cursive;
+	font-size:7em;
+	text-shadow: 1px 1px 2px black;
+	text-align:center;
+	padding:0;
+	margin-bottom:0;
+}
+
+span.tango{
+	color:#e06666;
+}
+
+span.loso{
+	color:white;
+}
+
+.subtitle{
+	font-family: 'Cookie', cursive;
+	font-size:2.5em;
+	color:white;
+	text-align:center;
+}
+
+section.section-top-page{
+	position:relative;
+	min-height:70%;
+	background: url("../img/background-top.jpg")no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+.top-buttons{
+text-align:center;
+}
+
+a.btn-top-1{
+	background: #e06666 !important;
+	color: #fff !important;
+	border-color: #e06666 !important;
+	border-radius:0px;
+	height:40px;
+	width:230px;
+	font-weight:bold;
+	font-size:0.8em;
+	padding-top:7px;
+	text-transform:uppercase;
+}
+
+a.btn-top-1:hover{
+	background:#f63737  !important;
+}
+
+a.btn-top-2{
+	color: #fff !important;
+	border: 2px solid white;
+	border-radius:0px;
+	height:40px;
+	width:230px;
+	font-weight:bold;
+	font-size:0.8em;
+	padding-top:7px;
+	text-transform:uppercase;
+}
+
+a.btn-top-2:hover{
+	color:black !important;
+	background:white;;
 }
