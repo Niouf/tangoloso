@@ -1,11 +1,10 @@
 ---
-title: Cours Particuliers
+titlelong : Cours particuliers de tango argentin à Lyon
+title : cours particuliers
 date: 2018-06-27 13:13:20 +0000
 menu: main
 weight: 150
-
 ---
-# Cours particuliers de tango argentin à Lyon
 
 En plus de ses cours collectifs hebdomadaires, l’association Tangoloso propose des cours particuliers de tango argentin à Lyon. Ils se déroulent dans le 3ème arrondissement avec possiblité de déplacement à domicile.
 

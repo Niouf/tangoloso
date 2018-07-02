@@ -1,9 +1,8 @@
 +++
 date = "2018-06-30T09:56:15+00:00"
 description = "Votre association se dote d'un nouveau site plus dynamique"
-logo = "/uploads/tangoloso-small.png"
+logo = "/uploads/logo-tango-loso.png"
 title = "Nouveau site internet !"
-undefined = ""
 
 +++
 Votre association se dote d'un nouveau site internet ! 

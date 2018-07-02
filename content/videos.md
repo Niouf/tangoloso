@@ -2,7 +2,7 @@
 title: Videos
 date: 2018-06-27 13:13:33 +0000
 menu: main
-
+weight: 200
 ---
 # Nos dernières vidéos et démos de tango !
 <div class='row space-v' >

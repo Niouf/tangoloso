@@ -1,10 +1,8 @@
 +++
 date = "2018-06-30T10:01:23+00:00"
 description = "Bienvenue à Cécile ! "
-logo = ""
 title = "Nouveau professeur"
-undefined = ""
-
+logo = "/uploads/cecile.jpg"
 +++
 Votre association accueille une nouvelle professeur de tango argentin !
 

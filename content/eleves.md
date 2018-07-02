@@ -1,11 +1,10 @@
 ---
-title: Eleves
-date: 2018-06-27 13:13:53 +0000
+titlelong : Ressources pour nos élèves
+title : Elèves
+date: 2018-06-27 13:13:20 +0000
 menu: main
-
+weight: 250
 ---
-# Resources pour nos élèves
-
 ## Résumé des cours
 
 Vous souhaitez vous rappeler de tout ce que vous avez vu depuis le début de l'année ? Retrouvez les vidéos des cours de l'année 2017/2018 sur cette playlist Youtube !

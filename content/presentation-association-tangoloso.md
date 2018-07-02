@@ -1,11 +1,10 @@
 ---
-title: L'association
+title: L’association
+titlelong: L’association Tangoloso
 date: 2018-06-27 13:12:50 +0000
 menu: main
 weight: 50
-
 ---
-# L’association Tangoloso
 
 ## Si gourmand de tango !
 

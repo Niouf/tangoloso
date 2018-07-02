@@ -45,6 +45,7 @@
                 </li>
             {{ end }}
         {{ end }}
+        <li class='menu-fb'><a href='https://www.facebook.com/tangolos'><img  src='{{ "/img/square-facebook-128.png" | absURL }}' alt='voir le facebook de Tangoloso' /></a></li>
     </ul>
         </div>
       </div>
@@ -70,34 +71,47 @@
 
 		<section class='section-actu'>
       <div class="container">
-        <h2>Actualité</h2>
-  			<div class='row'>
-  				<div class='col-md-5'>
-  					{{ range first 5 (where .Site.RegularPages "Type" "post").ByDate }}
+        <div class="content">
+          <h2>Actualité</h2>
+          <div class='row'>
+            <div class='col-md-7'>
+              {{ range first 1 (where .Site.RegularPages "Type" "post").ByDate.Reverse }}
+              <div class='article-list-last-news article-list-element'>
+                <div class='article-list-logo-last-news'><a href="{{ .RelPermalink }}"><img class="img-fluid" src='{{ .Params.logo }}' alt='' /></a></div>
+                <span class='article-list-date-last-news'>{{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}</span>
+                <h3 itemprop="headline">
+                  <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                </h3>
+                <p class='article-list-description'>{{ .Params.description }}</p>
+              </div>
+              {{ end }}
+            </div>
 
-  					<div class='article-list-element'>
-  						<h3 itemprop="headline">
-  							<span class='article-list-date'>{{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}</span>
-  							<br/><a href="{{ .RelPermalink }}">{{ .Title }}</a>
-  						</h3>
-  					</div>
-  					{{ end }}
-  				</div>
 
-  				<div class='col-md-7'>
-  					<div class='embed-responsive embed-responsive-21by9'>
-  						<iframe class="embed-responsive-item" src="https://calendar.google.com/calendar/embed?src=krf6ac7liank5h568vudboh4f0%40group.calendar.google.com&amp;ctz=Europe/Paris" width="800" height="600"></iframe>
-  					</div>
-  				</div>
-  			</div>
+            <div class='col-md-5'>
+              {{ range first 2 (after 1 (where .Site.RegularPages "Type" "post").ByDate.Reverse) }}
+
+              <div class='article-list-element'>
+                <div class='article-list-logo' ><a href="{{ .RelPermalink }}"><img class="img-fluid" src='{{ .Params.logo }}' alt='' /></a></div>
+                <span class='article-list-date'>{{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}</span>
+                <h3 itemprop="headline">
+                  <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                </h3>
+                <p class='article-list-description'>{{ .Params.description }}</p>
+              </div>
+              {{ end }}
+            </div>
+          </div>
+        </div>
+
       </div>
 		</section>
 
-		<section class='section-contact'>
-      <div class="container">
-        <div class='content'>{{ .Content }}</div>
-      </div>
-		</section>
+
+
+
+    {{ .Content }}
+
   </div>
 
 
