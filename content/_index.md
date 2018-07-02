@@ -14,14 +14,17 @@ date: 2018-06-27 13:13:53 +0000
 {{% column width="5" %}}
 ## En deux mots...
 L'association Tangoloso propose des cours et des stages de tango argentin à Lyon 3ème, juste à côté de l'arrêt de tram Dauphine-Lacassagne.
-N'hésitez pas à venir découvrir le tango, nous aimerions vous faire passer le virus :)
+
+N'hésitez pas à venir nous rencontrer ! Nous serons ravis de vous faire passer le virus du tango :)
 {{% /column %}}
 
 
 
 {{% column width="7" %}}
-Gallerie d'images
-
+<div class='row'>
+<div class='col-md-6'>{{< image alt="initiation" src="/uploads/thumbs/danceall.jpg" >}}</div>
+<div class='col-md-6'>{{< image alt="Shooting photo" src="/uploads/thumbs/DSCF7637.jpg" >}}</div>
+</div>
 {{% /column %}}
 
 {{% /row %}}
