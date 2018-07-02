@@ -22,8 +22,8 @@ N'hésitez pas à venir nous rencontrer ! Nous serons ravis de vous faire passer
 
 {{% column width="7" %}}
 <div class='row'>
-<div class='col-md-6'>{{< image alt="initiation" src="/uploads/thumbs/danceall.jpg" >}}</div>
-<div class='col-md-6'>{{< image alt="Shooting photo" src="/uploads/thumbs/DSCF7637.jpg" >}}</div>
+<div class='col-md-6'>{{< image alt="initiation" class='img-fluid' src="/uploads/thumbs/danceall.jpg" >}}</div>
+<div class='col-md-6'>{{< image alt="Shooting photo" class='img-fluid' src="/uploads/thumbs/DSCF7637.jpg" >}}</div>
 </div>
 {{% /column %}}
 
