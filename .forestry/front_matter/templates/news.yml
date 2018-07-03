@@ -10,5 +10,6 @@ fields:
   name: description
   label: Description
 pages:
+- content/post/post-de-test.md
 - content/post/nouveau-professeur.md
 - content/post/nouveau-site-internet.md
