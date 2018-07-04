@@ -33,13 +33,13 @@
                    <ul class="sub-menu">
                        {{ range .Children }}
                            <li class="nav-item {{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
-                               <a class='nav-link' href="{{ .URL }}">{{ .Name }}</a>
+                               <a class='nav-link' href="{{ .URL | absURL }}">{{ .Name }}</a>
                            </li>
                        {{ end }}
                    </ul>
                {{ else }}
                    <li>
-                       <a class='nav-link' href="{{ .URL }}">
+                       <a class='nav-link' href="{{ .URL | absURL }}">
                            {{ .Pre }}
                            <span>{{ .Name }}</span>
                        </a>
@@ -56,7 +56,7 @@
     <!-- Page Content -->
     <div class="container">
 		<article id="content">
-		<div class='row justify-content-center'>
+		<div class='row justify-content-center row-eq-height'>
 			<div class='col-lg-8'>
       <h1>
         {{ if (not (isset .Params "titlelong")) }}

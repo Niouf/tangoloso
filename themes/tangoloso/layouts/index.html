@@ -32,13 +32,13 @@
                 <ul class="sub-menu">
                     {{ range .Children }}
                         <li class="nav-item {{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
-                            <a class='nav-link' href="{{ .URL }}">{{ .Name }}</a>
+                            <a class='nav-link' href="{{ .URL | absURL }}">{{ .Name }}</a>
                         </li>
                     {{ end }}
                 </ul>
             {{ else }}
                 <li>
-                    <a class='nav-link' href="{{ .URL }}">
+                    <a class='nav-link' href="{{ .URL | absURL }}">
                         {{ .Pre }}
                         <span>{{ .Name }}</span>
                     </a>
@@ -74,10 +74,11 @@
         <div class="content">
           <h2>Actualité</h2>
           <div class='row'>
-            <div class='col-md-7'>
+            <div class='col-md-6'>
               {{ range first 1 (where .Site.RegularPages "Type" "post").ByDate.Reverse }}
               <div class='article-list-last-news article-list-element'>
-                <div class='article-list-logo-last-news'><a href="{{ .RelPermalink }}"><img class="img-fluid" src='{{ .Params.logo }}' alt='' /></a></div>
+                <div class='article-list-logo-last-news'><a href="{{ .RelPermalink }}">
+                  <img class="img-fluid" src='{{ .Params.logo }}' alt='' /></a></div>
                 <span class='article-list-date-last-news'>{{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}</span>
                 <h3 itemprop="headline">
                   <a href="{{ .RelPermalink }}">{{ .Title }}</a>
@@ -88,7 +89,7 @@
             </div>
 
 
-            <div class='col-md-5'>
+            <div class='col-md-6'>
               {{ range first 2 (after 1 (where .Site.RegularPages "Type" "post").ByDate.Reverse) }}
 
               <div class='article-list-element'>

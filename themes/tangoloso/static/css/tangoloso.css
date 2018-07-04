@@ -186,14 +186,32 @@ a.btn-top-2:hover{
 }
 
 .article-list-logo-last-news{
-		height:350px;
-		overflow:hidden;
+	position: absolute;
+top: 0;
+right: 0;
+bottom: 0;
+left: 0;
+
+overflow: hidden;
 }
 
 .article-list-logo-last-news img{
-	display:block;
-	width:100%;
-	margin: -75px 0 0 -100px;
+	position: absolute;
+  top: 50%;
+  left: 50%;
+
+  width: auto;
+  height: auto;
+
+  max-height: none;
+  max-width: none;
+
+  min-height: 100%;
+  min-width: 100%;
+
+  transform: translate(-50%, -50%);
+  -ms-transform: translate(-50%, -50%);
+  -webkit-transform: translate(-50%, -50%);
 }
 
 .article-list-logo img{
