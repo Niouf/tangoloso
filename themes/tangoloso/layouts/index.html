@@ -74,33 +74,44 @@
         <div class="content">
           <h2>Actualité</h2>
           <div class='row'>
-            <div class='col-md-6'>
+            <div class='col-md-7'>
               {{ range first 1 (where .Site.RegularPages "Type" "post").ByDate.Reverse }}
               <div class='article-list-last-news article-list-element'>
-                <div class='article-list-logo-last-news'><a href="{{ .RelPermalink }}">
-                  <img class="img-fluid" src='{{ .Params.logo }}' alt='' /></a></div>
-                <span class='article-list-date-last-news'>{{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}</span>
-                <h3 itemprop="headline">
-                  <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-                </h3>
-                <p class='article-list-description'>{{ .Params.description }}</p>
+                <div class="">
+                  <div class='article-list-logo-last-news'><a href="{{ .RelPermalink }}">
+                    <img class="img-fluid" src='{{ .Params.logo }}' alt='' /></a>
+                  </div>
+                </div>
+
+                <div class="article-list-text-last-news">
+                  <span class='article-list-date-last-news'>{{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}</span>
+                  <h3 itemprop="headline">
+                    <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                  </h3>
+                  <p class='article-list-description'>{{ .Params.description }}</p>
+                </div>
+
               </div>
               {{ end }}
             </div>
 
 
-            <div class='col-md-6'>
+            <div class='col-md-5'>
               {{ range first 2 (after 1 (where .Site.RegularPages "Type" "post").ByDate.Reverse) }}
 
               <div class='article-list-element'>
-                <div class='article-list-logo' ><a href="{{ .RelPermalink }}"><img class="img-fluid" src='{{ .Params.logo }}' alt='' /></a></div>
-                <span class='article-list-date'>{{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}</span>
+                <span class='article-list-date'>Actualité du {{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}</span>
                 <h3 itemprop="headline">
                   <a href="{{ .RelPermalink }}">{{ .Title }}</a>
                 </h3>
+                <div class='article-list-logo' ><a href="{{ .RelPermalink }}"><img class="img-fluid" src='{{ .Params.logo }}' alt='' /></a></div>
+
+
                 <p class='article-list-description'>{{ .Params.description }}</p>
               </div>
+
               {{ end }}
+
             </div>
           </div>
         </div>
