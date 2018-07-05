@@ -9,7 +9,7 @@ weight: 250
 
 Vous souhaitez vous rappeler de tout ce que vous avez vu depuis le début de l'année ? Retrouvez les vidéos des cours de l'année 2017/2018 sur cette playlist Youtube !
 
-{{< button title="Voir la playlist" src="https://www.youtube.com/watch?v=Fo7__mYhtls&list=PL6Z1BzMUtcgaG7yntUxeXBb3m9a2VR6wf"  >}}
+{{< button title="Voir les résumés 2017/2018" src="https://www.youtube.com/watch?v=Fo7__mYhtls&list=PL6Z1BzMUtcgaG7yntUxeXBb3m9a2VR6wf"  >}}
 
 ## Playlists tango Spotify de nos cours
 
