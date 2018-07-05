@@ -139,12 +139,19 @@ span.loso{
 
 section.section-top-page{
 	position:relative;
-	min-height:70%;
+	min-height:55%;
 	background: url("../img/background-top.jpg")no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+
+}
+
+@media only screen and (max-width:  600px) {
+	section.section.section-top-page {
+		min-height:40%;
+	}
 }
 
 
