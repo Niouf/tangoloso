@@ -1,5 +1,5 @@
-baseURL = "./"
+baseURL = "https://www.tangoloso.com"
 languageCode = "fr"
 DefaultContentLanguage = "fr"
-title = "My New Hugo Site"
+title = "Tangoloso"
 theme = "tangoloso"
