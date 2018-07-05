@@ -206,8 +206,18 @@ hr{
 	border:1px solid #c0c0c0;
 }
 
-.article-list-text-last-news{
-position:absolute;
+.uber-content-image{
+	position:relative;
+height:380px;
+}
+
+
+.article-list-last-news{
+	height:525px;
+}
+
+.article-list-text-last-news,.article-list-description{
+margin-top:0.7em;
 }
 
 .article-list-logo-last-news img{
