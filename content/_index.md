@@ -11,9 +11,9 @@ date: 2018-06-27 13:13:53 +0000
 
 {{% row  %}}
 
-{{% column width="5" %}}
+{{% column width="6" %}}
 ## Vous transmettre le virus du tango
-Nous avons de la chance, Lyon est une grande ville de tango argentin ! De nombreuses associations organisent des événements tout au long de l'année. Pour vous permettre d'en profiter au maximum,
+Nous avons de la chance, Lyon est une grande ville de tango argentin ! De nombreux événements s'y déroulent toute l'année. Pour vous permettre d'en profiter au maximum,
 l'association Tangoloso propose des cours et des stages de tango à Lyon 3ème, juste à côté de l'arrêt de tram Dauphine-Lacassagne.
 
 N'hésitez pas à venir nous rencontrer, nous serons ravis de vous transmettre notre passion ! :)
@@ -21,10 +21,9 @@ N'hésitez pas à venir nous rencontrer, nous serons ravis de vous transmettre n
 
 
 
-{{% column width="7" %}}
+{{% column width="6" %}}
 <div class='row'>
-<div class='col-md-6'>{{< image alt="initiation" class="img-fluid" src="/uploads/thumbs/danceall.jpg" >}}</div>
-<div class='col-md-6'>{{< image alt="Shooting photo" class="img-fluid" src="/uploads/thumbs/DSCF7637.jpg" >}}</div>
+<div class='col-md-12'>{{< image alt="initiation" class="img-fluid" src="/uploads/thumbs/danceall.jpg" >}}</div>
 </div>
 {{% /column %}}
 
