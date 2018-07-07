@@ -6,7 +6,7 @@ menu:
   main:
     weight: 100
 weight: 100
-
+logo : "/uploads/DSF_8702test2-e1510939504464.jpg"
 ---
 Nos cours ont lieu dans une nouvelle salle grande et lumineuse : La maison des Italiens à Lyon 3 ème !
 Nous souhaitons vous proposer un enseignement complet et adapté au bal (milongas), vous permettant de développer ou enrichir votre propre tango.  Nous proposons un cours d’essai gratuit pour découvrir notre association.
@@ -56,3 +56,6 @@ Maison des Italiens
 
 Arrêt de tram Dauphiné Lacassagne
 10 minutes à pied du métro Sans Souci
+
+Notre salle de cours, spacieuse et lumineuse :)
+{{% image src="/uploads/IMG_20170414_145801.jpg" alt="Salle de la maison des italiens" class="image-fluid" %}}
