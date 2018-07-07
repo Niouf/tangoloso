@@ -35,7 +35,7 @@ Ils se forment régulièrement auprès des nombreux maestros internationaux de p
 
 {{< image alt="Portrait de fabien" class=" mx-auto d-block portrait" src="/uploads/fg.jpg" >}}
 
-D'abord pratiquant de sports extrêmes (VTT, trial, sports de glisses), mais aussi d'arts martiaux (judo, puis Aïkido), Fabien découvre le tango argentin comme spectateur lors de bals sauvages à Paris. Enthousiasmé par cette danse, il s'inscrit à des cours et se passionne pour cet apprentissage. Très créatif, Fabien se forme alors auprès de tangueros de tous les pays et de tous les styles. Il voyage beaucoup en Europe pour continuer de se former et danser dans des événements spécialisés de tango. Il aspire maintenant à partager cette passion en proposant à ses élèves un enseignement basé sur l'inventivité et la recherche de son propre style.
+D'abord pratiquant de sports extrêmes (VTT, trial, sports de glisses), mais aussi d'arts martiaux (judo, puis Aïkido), Fabien découvre le tango argentin comme spectateur lors de bals sauvages à Paris. Enthousiasmé par cette danse, il s'inscrit à des cours et se passionne pour cet apprentissage. Il se forme alors auprès de tangueros de tous les pays et de tous les styles. Il voyage beaucoup en Europe pour continuer de se former et danser dans des événements spécialisés de tango. Il aspire maintenant à partager cette passion en proposant à ses élèves un enseignement basé sur l'inventivité et la recherche de son propre style.
 
 {{% /column %}}
 

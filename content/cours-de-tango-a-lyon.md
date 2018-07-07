@@ -58,4 +58,4 @@ Arrêt de tram Dauphiné Lacassagne
 10 minutes à pied du métro Sans Souci
 
 Notre salle de cours, spacieuse et lumineuse :)
-{{% image src="/uploads/IMG_20170414_145801.jpg" alt="Salle de la maison des italiens" class="image-fluid" %}}
+{{% image src="/uploads/IMG_20170414_145801.jpg" alt="Salle de la maison des italiens" class="img-fluid" %}}
