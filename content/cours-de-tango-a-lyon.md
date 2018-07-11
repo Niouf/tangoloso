@@ -17,15 +17,15 @@ Nous y ajoutons une recette magique : **une ambiance détendue et ludique**. Les
 
 ## Nos cours de niveau débutant
 
-Ils sont accessibles à tous sans pré-requis ni expérience de la danse. Ils vous permettront d’acquérir les bases du tango argentin, de découvrir la connexion entre les deux partenaires et la musique. C'est le point d'entrée essentiel pour tous les nouveaux apprentis tangueros.
+Ils sont **accessibles à tous sans pré-requis ni expérience de la danse**. Ils vous permettront d’acquérir les bases du tango argentin, de découvrir la connexion entre les deux partenaires et la musique. C'est le point d'entrée essentiel pour tous les nouveaux apprentis tangueros.
 
-Les figures enseignées sont simples mais pas simplistes et seront analysées et décortiquées pour vous les rendre naturelles. Le tango est une danse d'improvisation et les pas que vous aurez appris vous permettrons de danser avec tous les danseurs dans n'importe quel bal de tango argentin au monde :)
+Les figures enseignées sont simples mais pas simplistes et seront analysées et décortiquées pour vous les rendre naturelles. Le tango est une danse d'improvisation et vos cours vous permettrons de **danser avec tous les danseurs** dans n'importe quel bal de tango argentin au monde :)
 
 ## Nos cours de niveau intermédiaire et plus
 
 Ils s’adressent aux danseurs ayant déjà les bases du tango argentin. Les élèves y apprendront des pas plus complexes, perfectionneront la connexion avec leur partenaire et développeront leur propre sensibilité à la musique.
 
-Nous souhaitons élargir vos champs des possibles et vous proposer de nouvelles idées et clefs pour enrichir votre tango.
+Nous souhaitons **élargir vos champs des possibles** et vous proposer de nouvelles idées et clefs pour enrichir votre tango.
 
 ## Le lieu
 
