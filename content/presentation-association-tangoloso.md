@@ -10,17 +10,21 @@ menu:
 ---
 ## Si gourmand de tango !
 
-<div class='row'>
-<div class='col-md-7'>
-{{< youtube qRWdsHZznbA>}}
-</div>
-<div class='col-md-5'>
-L'association Tangoloso vous invite à venir déguster avec nous cette danse délicieuse, savourez sa marche, vous régaler de sa connexion à deux. Incorporer votre musicalité et délectez votre créativité.
+{{% row %}}
 
-    	Venez entamer les cours sur un pas moelleux, saupoudrer de quelques stages pour venir croquer des instants exquis sur les pistes de danse.
-    </div>
+{{% column width="7" %}}
 
-</div>
+ {{< youtube qRWdsHZznbA>}} 
+
+{{% /column %}}
+
+{{% column width="5" %}}
+
+ L'association Tangoloso a été fondée en 2015 par des mordus de tango argentin décidés à partager leur passion. A travers des cours réguliers et des manifestations, l'association s'est intégrée dans le paysage Lyonnais et à Bourg-en-Bresse.
+
+{{% /column %}}
+
+{{% /row %}}
 
 ## Les intervenants
 
@@ -35,7 +39,7 @@ Ils se forment régulièrement auprès des nombreux maestros internationaux de p
 
 {{< image alt="Portrait de fabien" class=" mx-auto d-block portrait" src="/uploads/fg.jpg" >}}
 
-D'abord pratiquant de sports extrêmes (VTT, trial, sports de glisses), mais aussi d'arts martiaux (judo, puis Aïkido), Fabien découvre le tango argentin comme spectateur lors de bals sauvages à Paris. Enthousiasmé par cette danse, il s'inscrit à des cours et se passionne pour cet apprentissage. Il se forme alors auprès de tangueros de tous les pays et de tous les styles. Il voyage beaucoup en Europe pour continuer de se former et danser dans des événements spécialisés de tango. Il aspire maintenant à partager cette passion en proposant à ses élèves un enseignement basé sur l'inventivité et la recherche de son propre style.
+D'abord pratiquant de sports extrêmes (VTT, trial, sports de glisses), mais aussi d'arts martiaux (judo, puis Aïkido), Fabien découvre le tango argentin comme spectateur lors de bals sauvages à Paris. Enthousiasmé par cette danse, mais ne sachant pas encore coordonner ses gauche et droit, il s'inscrit à des cours et se passionne pour cet apprentissage. Il se forme alors auprès de tangueros de tous les pays et de tous les styles. Il voyage beaucoup en Europe pour continuer de se former et danser dans des événements spécialisés de tango. Il aspire maintenant à partager cette passion en proposant à ses élèves un enseignement basé sur l'inventivité et la recherche de son propre style.
 
 {{% /column %}}
 
