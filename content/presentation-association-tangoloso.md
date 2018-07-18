@@ -6,6 +6,7 @@ weight: 50
 menu:
   main:
     weight: 50
+draft: true
 
 ---
 ## Si gourmand de tango !
@@ -43,9 +44,9 @@ D'abord pratiquant de sports extrêmes (VTT, trial, sports de glisses), mais aus
 
 ### Portrait de Cécile
 
-{{< image alt=" Portrait de fabien" class="mx-auto d-block portrait" src="/uploads/cecile.jpg" >}}
+{{< image alt=" Portrait de Cécile" class="mx-auto d-block portrait" src="/uploads/cecile-1.jpg" >}}
 
-Après de nombreuses années d'apprentissage du violon classique en conservatoire, Cécile découvre le répertoire du tango argentin. La curiosité l'amène sur les parquets et elle découvre  l'univers des danseurs.  Elle apprécie l'interprétation que chaque couple donne au sein d'un même bal offrant un ensemble harmonieux. Dès lors le tango l'a fait voyager de l'Espagne, à la Pologne en passant par l'Argentine. Partout le partage de cette langue universelle lui permet d'improviser.  Son style est à son image: libre fluide et joyeux!   
+Après de nombreuses années d'apprentissage du violon classique en conservatoire, Cécile découvre le répertoire du tango argentin. La curiosité l'amène sur les parquets et elle découvre  l'univers des danseurs.  Elle apprécie l'interprétation que chaque couple donne au sein d'un même bal offrant un ensemble harmonieux. Dès lors le tango l'a fait voyager de l'Espagne, à la Pologne en passant par l'Argentine. Partout le partage de cette langue universelle lui permet d'improviser.  Son style est à son image: libre fluide et joyeux!
 
 {{% /column %}}
 
