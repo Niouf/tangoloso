@@ -20,7 +20,9 @@ menu:
 
 {{% column width="5" %}}
 
- L'association Tangoloso a été fondée en 2015 par des mordus de tango argentin décidés à partager leur passion. A travers des cours réguliers et des manifestations, l'association s'est intégrée dans le paysage Lyonnais et à Bourg-en-Bresse.
+L'association Tangoloso a été fondée en 2015 par des mordus de tango argentin. Leur but ? Faire passer le virus du tango à un maximum de personnes en proposant des cours et des événements qui s'éloignent des clichés austères du tango. 
+
+Ici le tango fait tomber sa rose bien trop encombrante et ses habits noirs et rouge pour aller chercher plus de complicité et de joie ! Le tango devient jeu, connexion et expression artistique entre deux partenaires. 
 
 {{% /column %}}
 
