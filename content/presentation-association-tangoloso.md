@@ -6,7 +6,6 @@ weight: 50
 menu:
   main:
     weight: 50
-draft: true
 
 ---
 ## Si gourmand de tango !
