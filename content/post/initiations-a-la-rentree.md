@@ -1,7 +1,6 @@
 +++
 date = "2018-07-18T08:40:18+00:00"
 description = "2 initiations vous serons proposée en 2018"
-draft = true
 logo = "/uploads/thumbs/danceall.jpg"
 title = "Initiations à la rentrée"
 undefined = "Rentrée 2018 : Initiations"
