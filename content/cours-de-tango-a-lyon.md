@@ -11,7 +11,7 @@ menu:
 ---
 Nous souhaitons vous proposer un enseignement de qualité dans une ambiance conviviale et détendue.
 
-Pour nous un **enseignement de qualité se doit d'être concret et adapté au bal** (milongas). Pas de figures impossibles ou aériennes, notre but est que vous sortiez de chaque cours avec des nouvelles possibilités pour vous amuser en bal.
+Pour nous, un **enseignement de qualité se doit d'être concret et adapté au bal** (les milongas). Ici, pas de figures impossibles ou aériennes, notre but est que vous sortiez de chaque cours avec des nouvelles possibilités pour vous amuser en soirée.
 
 Nous y ajoutons une recette magique : **une ambiance détendue et ludique**. Les neurosciences l'ont démontré, le plaisir et le jeu sont des [grands piliers dans l'apprentissage](https://fr.slideshare.net/AntoineTaly/neuroscience-enseignement "Plaisir et jeu powerpoint"). Pour nous il est essentiel de déconstruire l'image rigide du tango et y ajouter une dimension ludique pour que vous vous sentiez à l'aise.
 
