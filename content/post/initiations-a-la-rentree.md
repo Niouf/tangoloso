@@ -6,15 +6,17 @@ title = "Initiations à la rentrée"
 undefined = "Rentrée 2018 : Initiations"
 
 +++
-Vous souhaitez essayer le tango argentin ? Ca tombe bien, car en septembre nous vous proposons 2 initiations au tango (avec démo improvisée à la fin).   
+Vous souhaitez essayer le tango argentin ? Ca tombe bien !  En septembre nous vous proposons 2 initiations au tango (avec démo improvisée à la fin).   
 
 Cécile & Fabien vont mouiller la chemise pour vous faire ressentir la connexion, la musique et vous accompagner dans vos premiers pas de tango (et sans marcher sur ceux de votre partenaire s'il vous plait !).
 
-Pas de stress, vous pouvez venir sans aucune expérience de la danse ! Vos professeurs se rappellent qu'eux mêmes ne savaient pas bouger en rythme avant leurs premiers pas de tango et prendront le temps de bien cous expliquer la base   ;)
+Pas de stress, venez comme vous êtes et aucune expérience de la danse ! Vos professeurs prendront le temps de bien vous expliquer les bases pour vous donner vos premières sensations de tango.
 
 Ce sera aussi l'occasion de papoter ensemble, de parler de l'univers du tango et de son histoire passionnante !
 
-**Prix :** 2 euros
+** Durée ** : entre 1h et 1h15
+
+**Prix ** : 2 euros
 
 **Quand ?**
 

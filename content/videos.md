@@ -9,14 +9,16 @@ weight: 200
 ---
 # Nos dernières vidéos et démos de tango !
 
+Voici quelques vidéos et démonstrations de tango argentin de nos enseignants.
+
 <div class='row space-v' >
 <div class='col-md-6'>{{< youtube qRWdsHZznbA >}}</div>
-<div class='col-md-6'>{{< youtube G2SHPjTLOq0 >}}</div>
+<div class='col-md-6'>{{< youtube z5h3_Pcn_1Q>}}</div>
 </div>
 
 <div class='row space-v mt-4'>
 <div class='col-md-6'>
-{{< youtube z5h3_Pcn_1Q>}}
+{{< youtube G2SHPjTLOq0 >}}
 </div>
 <div class='col-md-6'>
 {{< youtube 0TF1dzRpCPA >}}

@@ -11,7 +11,7 @@ menu:
 ---
 Nous souhaitons vous proposer un enseignement de qualité dans une ambiance conviviale et détendue.
 
-Pour nous, un **enseignement de qualité se doit d'être concret et adapté au bal** (les milongas). Ici, pas de figures impossibles ou aériennes, notre but est que vous sortiez de chaque cours avec des nouvelles possibilités pour vous amuser en soirée.
+Pour nous, un **enseignement de qualité se doit d'être concret et adapté au bal** (les milongas). Ici, pas de temps à perdre avec figures impossibles ou aériennes, notre but est que chaque cours avec des nouvelles possibilités pour vous amuser en soirée.
 
 Nous y ajoutons une recette magique : **une ambiance détendue et ludique**. Les neurosciences l'ont démontré, le plaisir et le jeu sont des [grands piliers dans l'apprentissage](https://fr.slideshare.net/AntoineTaly/neuroscience-enseignement "Plaisir et jeu powerpoint"). Pour nous il est essentiel de déconstruire l'image rigide du tango et y ajouter une dimension ludique pour que vous vous sentiez à l'aise.
 
@@ -21,9 +21,11 @@ Ils sont **accessibles à tous sans pré-requis ni expérience de la danse**. Il
 
 Les figures enseignées sont simples mais pas simplistes et seront analysées et décortiquées pour vous les rendre naturelles. Le tango est une danse d'improvisation et vos cours vous permettrons de **danser avec tous les danseurs** dans n'importe quel bal de tango argentin au monde :)
 
+Chaque cours commence par un phase d'échauffement qui nous permet de se mettre dans une dynamique d'apprentissage, d'une phase de démonstration résumant l'essentiel du cours et d'un moment de danse libre essentiel pour consolider ses acquis.
+
 ## Nos cours de niveau intermédiaire et plus
 
-Ils s’adressent aux danseurs ayant déjà les bases du tango argentin. Les élèves y apprendront des pas plus complexes, perfectionneront la connexion avec leur partenaire et développeront leur propre sensibilité à la musique.
+Ils s’adressent aux danseurs ayant déjà des bases solides du tango argentin. Les élèves y apprendront des pas plus complexes, perfectionneront la connexion avec leur partenaire et développeront leur propre sensibilité à la musique.
 
 Nous souhaitons **élargir vos champs des possibles** et vous proposer de nouvelles idées et clefs pour enrichir votre tango.
 

@@ -9,7 +9,7 @@ date: 2018-06-27 13:13:53 +0000
 ## Vous transmettre le virus !
 Nous avons de la chance, Lyon est une grande ville de tango argentin ! De nombreux événements, bals et festivals s'y déroulent toute l'année.
 
-Nous souhaitons emmener nos élèves à la découverte de ce nouveau monde !
+Nous souhaitons emmener nos élèves à la découverte de ce nouveau monde : Une danse riche en histoire basée sur l'improvisation et la connexion qui est dansée partout dans le monde !
 {{% /column %}}
 {{% column width="6" %}}
 <div class='row'>
