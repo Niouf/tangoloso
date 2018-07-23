@@ -72,5 +72,5 @@ Tous les jeudis(sauf vacances scolaires) Début des cours le jeudi 20 septembre 
 Maison des Italiens
 82 Rue du Dauphiné, 69003 Lyon
 
-Arrêt de tram Dauphiné Lacassagne
-10 minutes à pied du métro Sans Souci
+Arrêt de tram Dauphiné Lacassagne  
+ou 10 minutes à pied du métro Sans Souci

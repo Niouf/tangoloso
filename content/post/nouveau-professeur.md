@@ -6,7 +6,7 @@ title = "Nouveau professeur"
 undefined = ""
 
 +++
-C'est avec grand plaisir que votre association accueille une nouvelle professeur de tango argentin ! Violoniste classique et danseuse depuis de nombreuses années elle rejoint l'équipe des professeurs.
+C'est avec grand plaisir que notre association accueille une nouvelle professeur de tango argentin ! Violoniste classique et danseuse depuis de nombreuses années elle rejoint l'équipe de Tangoloso.
 
 Cécile remplacera Catherine à la rentrée 2018 pour donner les cours débutants et avancés avec Fabien.
 

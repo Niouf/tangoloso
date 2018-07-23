@@ -77,6 +77,10 @@ a.btn-primary:hover{
 	border:#fb7169;
 }
 
+.logo-article{
+	margin-bottom:25px;
+}
+
 a.navbar-brand img{
 	height:40px;
 	width:auto;

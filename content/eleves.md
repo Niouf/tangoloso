@@ -1,15 +1,15 @@
 ---
-titlelong : Ressources pour nos élèves
+titlelong : Résumés des cours
 title : Elèves
 date: 2018-06-27 13:13:20 +0000
 menu: main
 weight: 250
 ---
-## Résumé des cours
+## Résumé des cours pour nos élèves
 
-Vous souhaitez vous rappeler de tout ce que vous avez vu depuis le début de l'année ? Retrouvez les vidéos des cours de l'année 2017/2018 sur cette playlist Youtube !
+Vous souhaitez vous rappeler de tout ce que vous avez appris depuis le début de l'année ? Retrouvez les vidéos des cours de l'année 2017/2018 sur cette playlist Youtube !
 
-{{< button title="Voir les résumés 2017/2018" src="https://www.youtube.com/watch?v=Fo7__mYhtls&list=PL6Z1BzMUtcgaG7yntUxeXBb3m9a2VR6wf"  >}}
+<a href="https://www.youtube.com/watch?v=Fo7__mYhtls&list=PL6Z1BzMUtcgaG7yntUxeXBb3m9a2VR6wf" target="_blank" class='btn btn-primary'>Voir les résumés 2017/2018</a>
 
 ## Playlists tango Spotify de nos cours
 
