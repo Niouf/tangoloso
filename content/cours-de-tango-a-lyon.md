@@ -13,7 +13,7 @@ Nous souhaitons vous proposer un enseignement de qualité dans une ambiance conv
 
 Pour nous, un cours de tango se doit d'être **concret et adapté au bal** (les milongas). Ici, pas de temps à perdre avec figures impossibles ou aériennes, notre but est que chaque cours avec des nouvelles possibilités pour vous amuser en soirée.
 
-Nous y ajoutons une recette magique : **une ambiance détendue et ludique**. Les neurosciences l'ont démontré, le plaisir et le jeu sont des [grands piliers dans l'apprentissage](https://fr.slideshare.net/AntoineTaly/neuroscience-enseignement "Plaisir et jeu powerpoint"). Pour nous il est essentiel de déconstruire l'image rigide du tango et y ajouter une dimension ludique pour que vous vous sentiez à l'aise.
+Nous y ajoutons une recette magique : **une ambiance détendue et ludique**. Les neurosciences l'ont démontré, le plaisir et le jeu sont des [grands piliers dans l'apprentissage](https://fr.slideshare.net/AntoineTaly/neuroscience-enseignement "Plaisir et jeu powerpoint"). Pour nous il est essentiel de déconstruire l'image rigide du tango et y ajouter une bonne dose de fun pour que vous vous sentiez à l'aise.
 
 ## Nos cours de niveau débutant
 
