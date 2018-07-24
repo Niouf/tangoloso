@@ -61,7 +61,7 @@ contact@tangoloso.com
 
 ### Horaires
 
-Tous les jeudis(sauf vacances scolaires) Début des cours le jeudi 20 septembre 2018
+Tous les jeudis, début des cours le jeudi 20 septembre 2018
 
 19h30 – 20h45 : niveau débutant
 
