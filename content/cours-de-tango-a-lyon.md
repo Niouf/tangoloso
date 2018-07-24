@@ -11,7 +11,7 @@ menu:
 ---
 Nous souhaitons vous proposer un enseignement de qualité dans une ambiance conviviale et détendue.
 
-Pour nous, un **enseignement de qualité se doit d'être concret et adapté au bal** (les milongas). Ici, pas de temps à perdre avec figures impossibles ou aériennes, notre but est que chaque cours avec des nouvelles possibilités pour vous amuser en soirée.
+Pour nous, un cours de tango se doit d'être **concret et adapté au bal** (les milongas). Ici, pas de temps à perdre avec figures impossibles ou aériennes, notre but est que chaque cours avec des nouvelles possibilités pour vous amuser en soirée.
 
 Nous y ajoutons une recette magique : **une ambiance détendue et ludique**. Les neurosciences l'ont démontré, le plaisir et le jeu sont des [grands piliers dans l'apprentissage](https://fr.slideshare.net/AntoineTaly/neuroscience-enseignement "Plaisir et jeu powerpoint"). Pour nous il est essentiel de déconstruire l'image rigide du tango et y ajouter une dimension ludique pour que vous vous sentiez à l'aise.
 
@@ -48,8 +48,8 @@ Forfaits :
 
 Forfait Tarifs réduits (demandeurs d’emploi, étudiants, bénéficiaires du RSA) :
 
-    1 atelier : 230 euros
-    2 ateliers : 300 euros
+    1 atelier : 250 euros
+    2 ateliers : 330 euros
 
 **L’adhésion à l’association est obligatoire (10 euros) est à ajouter au prix du forfait.**
 
