@@ -1,10 +1,10 @@
 ---
 title: Videos
 date: 2018-06-27 13:13:33 +0000
+weight: 200
 menu:
   main:
     weight: 200
-weight: 200
 
 ---
 # Nos dernières vidéos et démos de tango !
@@ -12,7 +12,7 @@ weight: 200
 Voici quelques vidéos et démonstrations de tango argentin de nos enseignants.
 
 <div class='row space-v' >
-<div class='col-md-6'>{{< youtube qRWdsHZznbA >}}</div>
+<div class='col-md-6'>{{< youtube o7Gl3vnbaEY>}}</div>
 <div class='col-md-6'>{{< youtube z5h3_Pcn_1Q>}}</div>
 </div>
 
