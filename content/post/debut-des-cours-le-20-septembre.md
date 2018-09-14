@@ -1,7 +1,6 @@
 +++
 date = "2018-09-14T11:45:55+00:00"
 description = ""
-draft = true
 logo = "/uploads/cours2018start.jpg"
 title = "Début des cours le 20 septembre !"
 undefined = ""
