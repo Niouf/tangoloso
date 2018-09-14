@@ -11,6 +11,7 @@ fields:
   name: description
   label: Description
 pages:
+- content/post/debut-des-cours-le-20-septembre.md
 - content/post/cours-2018-2019.md
 - content/post/nouveau-professeur.md
 - content/post/initiations-a-la-rentree.md
