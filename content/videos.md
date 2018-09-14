@@ -13,7 +13,7 @@ Voici quelques vidéos et démonstrations de tango argentin de nos enseignants.
 
 <div class='row space-v' >
 <div class='col-md-6'>{{< youtube o7Gl3vnbaEY>}}</div>
-<div class='col-md-6'>{{< youtube qlD5g2cuRbE>}}{{< youtube z5h3_Pcn_1Q>}}</div>
+<div class='col-md-6'>{{< youtube z5h3_Pcn_1Q>}}</div>
 </div>
 
 <div class='row space-v mt-4'>
