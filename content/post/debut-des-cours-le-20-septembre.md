@@ -15,3 +15,7 @@ jeudi 20 septembre sera donc le jour de la reprise des cours de tango. Vous pouv
 Et en souvenir des initiations, voici une petite démonstration sur la milonga El LLoron de Hugo Diaz.
 
 {{< youtube qlD5g2cuRbE>}}
+
+et la valse Hermana de Alfredo De Angelis
+
+{{< youtube ip8E4N95EOk>}}
