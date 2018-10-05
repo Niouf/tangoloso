@@ -1,7 +1,6 @@
 +++
 date = "2018-10-05T09:46:50+00:00"
 description = "Les cours de la saison n'auront pas lieu ..."
-draft = true
 logo = "/uploads/fancycrave-771302-unsplash(1).jpg"
 title = "Annulation des cours 2018-2019"
 undefined = "Annulation des cours 2018/2019"
