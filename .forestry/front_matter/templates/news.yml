@@ -1,7 +1,6 @@
 ---
 label: news
 hide_body: false
-is_partial: false
 fields:
 - type: textarea
 - type: file
@@ -11,10 +10,10 @@ fields:
   name: description
   label: Description
 pages:
-- content/post/nouveau-professeur.md
-- content/post/cours-2018-2019.md
-- content/post/nouveau-site-internet.md
-- content/post/initiations-a-la-rentree.md
-- content/post/debut-des-cours-le-20-septembre.md
-- content/post/découvrez-des-vidéos-de-tango-argentin.md
 - content/post/annulation-des-cours-2018-2019.md
+- content/post/découvrez-des-vidéos-de-tango-argentin.md
+- content/post/debut-des-cours-le-20-septembre.md
+- content/post/initiations-a-la-rentree.md
+- content/post/cours-2018-2019.md
+- content/post/nouveau-professeur.md
+- content/post/nouveau-site-internet.md

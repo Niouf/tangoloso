@@ -1,8 +1,8 @@
 ---
 titlelong: Cours particuliers de tango argentin à Lyon
 title: cours particuliers
-date: 2018-06-27 13:13:20 +0000
-weight: 150
+date: 2018-06-27T13:13:20.000+00:00
+weight: "150"
 logo: "/uploads/coursp.jpg"
 menu:
   main:
@@ -20,4 +20,4 @@ Prendre un cours particulier est un excellent moyen de développer sa danse en p
     Solo : 40€ (1h)
     Couple : 50€ (1h15)
 
-Contactez-nous pour plus d’informations à contact@tangoloso.com ou au 06.24.86.71.69.
+Contactez-nous pour plus d’informations à fab.grignoux@gmail.com ou au 06.24.86.71.69.
