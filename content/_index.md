@@ -1,11 +1,6 @@
 +++
 
 +++
-\---
-title: index
-date: 2018-06-27 13:13:53 +0000
--
-
 {{% section class="section-apropos" %}}
 {{% container class="apropos" %}}
 {{% row  %}}
